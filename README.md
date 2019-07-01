@@ -1,2 +1,3 @@
 # CodingQuestions
-Coding questions, mainly of OJ like leetcode
+Coding questions, mainly from OJ like leetcode.
+Updating continuously.
