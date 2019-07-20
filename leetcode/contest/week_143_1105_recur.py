@@ -1,3 +1,6 @@
+# Filling Bookcase Shelves
+# Medium
+
 import math
 class Solution(object):
     def minHeightShelves(self, books, shelf_width):

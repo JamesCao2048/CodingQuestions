@@ -1,7 +1,8 @@
+# Statistics from a Large Sample
+# Medium
+
 from decimal import *
 import math
-
-
 class Solution(object):
     def sampleStats(self, count):
         """
