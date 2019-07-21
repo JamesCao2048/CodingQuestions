@@ -1,3 +1,6 @@
+# 3 Sum
+# Medium
+
 class Solution(object):
     def threeSum(self, nums):
         """
